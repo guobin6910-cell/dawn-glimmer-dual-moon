@@ -16,7 +16,7 @@ const scriptUrls = [
     "js/rmmz_windows.js?v=20260908c",
     "js/plugins.js?v=20260908c"
 ];
-const effekseerWasmUrl = "js/libs/effekseer.wasm?v=20260908c?v=20260908c";
+const effekseerWasmUrl = "js/libs/effekseer.wasm?v=20260908c";
 
 class Main {
     constructor() {
