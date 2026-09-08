@@ -3,20 +3,20 @@
 //=============================================================================
 
 const scriptUrls = [
-    "js/libs/pixi.js",
-    "js/libs/pako.min.js",
-    "js/libs/localforage.min.js",
-    "js/libs/effekseer.min.js",
-    "js/libs/vorbisdecoder.js",
-    "js/rmmz_core.js",
-    "js/rmmz_managers.js",
-    "js/rmmz_objects.js",
-    "js/rmmz_scenes.js",
-    "js/rmmz_sprites.js",
-    "js/rmmz_windows.js",
-    "js/plugins.js"
+    "js/libs/pixi.js?v=20260908c",
+    "js/libs/pako.min.js?v=20260908c",
+    "js/libs/localforage.min.js?v=20260908c",
+    "js/libs/effekseer.min.js?v=20260908c",
+    "js/libs/vorbisdecoder.js?v=20260908c",
+    "js/rmmz_core.js?v=20260908c",
+    "js/rmmz_managers.js?v=20260908c",
+    "js/rmmz_objects.js?v=20260908c",
+    "js/rmmz_scenes.js?v=20260908c",
+    "js/rmmz_sprites.js?v=20260908c",
+    "js/rmmz_windows.js?v=20260908c",
+    "js/plugins.js?v=20260908c"
 ];
-const effekseerWasmUrl = "js/libs/effekseer.wasm";
+const effekseerWasmUrl = "js/libs/effekseer.wasm?v=20260908c?v=20260908c";
 
 class Main {
     constructor() {

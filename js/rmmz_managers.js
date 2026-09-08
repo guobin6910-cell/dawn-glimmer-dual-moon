@@ -104,7 +104,7 @@ DataManager.loadDatabase = function() {
 
 DataManager.loadDataFile = function(name, src) {
     const xhr = new XMLHttpRequest();
-    const url = "data/" + src;
+    const url = "data/" + src + "?v=20260908c";
     window[name] = null;
     xhr.open("GET", url);
     xhr.overrideMimeType("application/json");
